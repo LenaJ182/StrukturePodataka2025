@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948BACBC-09E3-4D6D-AB41-F823314069CF}|Zadatak1\\Zadatak1.vcxproj|C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{948BACBC-09E3-4D6D-AB41-F823314069CF}|Zadatak1\\Zadatak1.vcxproj|solutionrelative:Zadatak1\\zadatak1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948BACBC-09E3-4D6D-AB41-F823314069CF}|Zadatak1\\Zadatak1.vcxproj|C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{948BACBC-09E3-4D6D-AB41-F823314069CF}|Zadatak1\\Zadatak1.vcxproj|solutionrelative:Zadatak1\\studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studenti.txt",
+              "DocumentMoniker": "C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\studenti.txt",
+              "RelativeDocumentMoniker": "Zadatak1\\studenti.txt",
+              "ToolTip": "C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\studenti.txt",
+              "RelativeToolTip": "Zadatak1\\studenti.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-13T15:01:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak1.c",
+              "DocumentMoniker": "C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\zadatak1.c",
+              "RelativeDocumentMoniker": "Zadatak1\\zadatak1.c",
+              "ToolTip": "C:\\Users\\LenaJovi\u0107\\Desktop\\StrukturePodataka\\Zadatak1\\Zadatak1\\zadatak1.c",
+              "RelativeToolTip": "Zadatak1\\zadatak1.c",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-13T14:55:38.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
