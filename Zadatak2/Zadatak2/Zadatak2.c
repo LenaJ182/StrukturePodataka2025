@@ -98,7 +98,7 @@ int main() {
         head = next;               // idi na iduću
     }
 
-    printf("\nSva memorija je uspjesno oslobodena\n");
+    
     return 0;
 }
 
